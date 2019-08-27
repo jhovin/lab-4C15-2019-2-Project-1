@@ -1,13 +1,5 @@
-package com.tecsup.sesion01.maven;
+public class JLO{
 
-/**
- * Hello world!
- *
- */
-public class App 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hola Soy Jeff .......... !" );
-    }
+    
+
 }
